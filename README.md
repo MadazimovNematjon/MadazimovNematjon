@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://miro.medium.com/v2/resize:fit:1200/1*v61-QL8UkB1OGUdBpFCQqQ.png">
+    <img src="https://buddy.works/blog/thumbnails/flutter/flutter-cover.png">
 </p>
 
 ## <div align="center">Hey 👋, I'm  Ne'matjon</div>  
