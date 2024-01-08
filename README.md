@@ -10,7 +10,7 @@ I'm a Flutter developer 💻 with more than (2/1) years of experience. Being a s
   
 ## 🤝 Connect with me  
 <div align="start">
-<img src=https://img.shields.io/badge/instagram-%231E77B5.svg?&style=for-the-badge&logo=instagramn&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+<img src=https://icons8.ru/icon/32292/instagram=for-the-badge&logo=instagramn&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 <a href="google:nmadazimov734@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=Gmail style="margin-bottom: 5px;" />
