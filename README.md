@@ -10,13 +10,9 @@ I'm a Flutter developer 💻 with more than (2/1) years of experience. Being a s
   
 ## 🤝 Connect with me  
 <div align="start">
-<a href="@nematjon_19">
-<img src=https://icons8.ru/icon/32292/instagram=for-the-badge&logo=instagramn&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
 <a href="mailto:nmadazimov734@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=Gmail style="margin-bottom: 5px;" />
 </a>  
- </a>
 <a href="https://t.me/Flutter_AppMaker" target="_blank">
 <img src=https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white? alt=telegram style="margin-bottom: 5px;" />
 </a> 
