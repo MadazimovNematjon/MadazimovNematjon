@@ -20,8 +20,9 @@ I'm a Flutter developer 💻 with more than (2/1) years of experience. Being a s
 <br/>  
 
 ## ⚒️ Stack:
-Rest API
-Responsiv UI
-Dio
-Http
+
+ Rest API
+ Responsiv UI
+ Dio
+ Http
 
