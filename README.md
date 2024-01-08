@@ -18,11 +18,3 @@ I'm a Flutter developer 💻 with more than (2/1) years of experience. Being a s
 </a> 
 </div>  
 <br/>  
-
-## ⚒️ Stack:
-
- Rest API
- Responsiv UI
- Dio
- Http
-
